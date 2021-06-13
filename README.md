@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "500" height = "400" alt = "Coder-Goo" align = center>
 
 Hi coder, I'm Coder-Goo!
 
