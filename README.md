@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+Hi coder, I'm Coder-Goo!
+
+
 <!--
 **Coder-Goo/Coder-Goo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
